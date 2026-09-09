@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Priyam Raj</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=priyam2106&label=Profile%20views&color=0e75b6&style=flat" alt="priyam2106" /> </p>
+
 - 🔭 I’m currently working on [AI-Driven Video Summarisation and Content-Based Intelligent Search System](https://github.com/priyam2106/AI-Driven-Video-Summarisation-and-Content-Based-Intelligent-Search-System)
 
 - 🌱 I’m currently learning **Longchain, Agentic AI, Docker**
